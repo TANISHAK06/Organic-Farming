@@ -8,7 +8,9 @@ body {
     font-family: Aclonica;
     line-height: 1.6;
     background: url('IMAGE.jpg');
-    background-size: cover; 
+    background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
     color:#030303;
 }
 
