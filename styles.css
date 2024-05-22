@@ -67,17 +67,7 @@ section h2 {
     color: #0278ae;
     margin-bottom: 1em;
 }
-@media only screen and (max-width: 768px) {
-    header {
-        padding: 0.5em 0;
-    }
-    nav ul li {
-        display: block;
-        margin: 10px 0;
-    }
-    .box {
-        width: calc(100% - 2em);
-    }
+
 footer {
    
     color: black;
